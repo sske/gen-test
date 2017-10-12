@@ -1,0 +1,24 @@
+[
+  {
+    "base": {
+      "no": 1,
+      "name": "a",
+      "req": true,
+      "max": 40
+    }
+  },
+  {
+    "base": {
+      "no": 2,
+      "name": "b",
+      "max": 20
+    }
+  },
+  {
+    "base": {
+      "no": 3,
+      "name": "c",
+      "req": true
+    }
+  }
+]

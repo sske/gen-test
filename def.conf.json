@@ -1,0 +1,15 @@
+{
+  "sheet": {
+    "name": "Sheet1"
+  },
+  "line": {
+    "start": 4,
+    "permspace": 3
+  },
+  "row": {
+    "id": "B",
+    "name": "C",
+    "req": "D",
+    "max": "E"
+  }
+}
