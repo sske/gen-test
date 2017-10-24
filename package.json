@@ -10,6 +10,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "chokidar": "^1.7.0",
     "xlsx": "^0.11.5"
   }
 }
